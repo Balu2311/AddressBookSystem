@@ -1,0 +1,13 @@
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.exe
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.dll
+G:\Bridgelab\Address_Book\AddressBook\bin\Debug\netcoreapp3.1\AddressBook.pdb
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.AssemblyReference.cache
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.dll
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.pdb
+G:\Bridgelab\Address_Book\AddressBook\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
