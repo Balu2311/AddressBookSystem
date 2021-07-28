@@ -18,8 +18,11 @@ namespace AddressBook
                 switch (choice)
                 {
                     case 1:
-                        Add_New_ContactPerson obj = new Add_New_ContactPerson();
-                        obj.EnterInput(); 
+
+                        AddMultiplePersons obj4 = new AddMultiplePersons();
+                        obj4.EnterInput();
+                        //Add_New_ContactPerson obj = new Add_New_ContactPerson();
+                        //obj.EnterInput(); 
                         break;
 
 
@@ -50,4 +53,4 @@ namespace AddressBook
         }
     }
 }
- 
+

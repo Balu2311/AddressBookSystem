@@ -19,6 +19,15 @@ namespace AddressBook
         {
         }
 
+        public ContactPerson(string firstName, string lastName, string address, string state, string contact, string zip)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Address = address;
+            State = state;
+            Zip = zip;
+        }
+
         public ContactPerson(String FirstName, String LastName, String Address, String City, String State, String PhoneNumber, String Zip, String Email)
 		{
 			this.FirstName = FirstName;
