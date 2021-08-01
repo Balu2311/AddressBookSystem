@@ -5,8 +5,9 @@ using System.Text;
 namespace AddressBook
 {
     public class ContactPerson
-	{ 
-		public String FirstName;
+	{
+        internal readonly string state;
+        public String FirstName;
 		public String LastName;
 		public String Address;
 		public String City;
@@ -14,6 +15,8 @@ namespace AddressBook
 		public String Zip;
 		public String PhoneNumber;
 		public String Email;
+        internal string firstName;
+        internal object address;
 
         public ContactPerson()
         {
