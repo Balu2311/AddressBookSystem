@@ -4,47 +4,27 @@ using System.Text;
 
 namespace AddressBook
 {
-    public class ContactPerson
+	public class ContactPerson
 	{
-        internal readonly string state;
-        public String FirstName;
-		public String LastName;
-		public String Address;
-		public String City;
-		public String State;
-		public String Zip;
-		public String PhoneNumber;
-		public String Email;
-        internal string firstName;
-        internal object address;
+		public String firstName;
+		public String lastName;
+		public String address;
+		public String contact;
+		public String state;
+		public String zip;
 
-        public ContactPerson()
-        {
-        }
-
-        public ContactPerson(string firstName, string lastName, string address, string state, string contact, string zip)
-        {
-            FirstName = firstName;
-            LastName = lastName;
-            Address = address;
-            State = state;
-            Zip = zip;
-        }
-
-        public ContactPerson(String FirstName, String LastName, String Address, String City, String State, String PhoneNumber, String Zip, String Email)
+		public ContactPerson(String firstName, String lastName, String address, String state, String contact, String zip)
 		{
-			this.FirstName = FirstName;
-			this.LastName = LastName;
-			this.Address = Address;
-			this.PhoneNumber = PhoneNumber;
-			this.State = State;
-			this.Zip = Zip;
-			this.City = City;
-			this.Email = Email;
+			this.firstName = firstName;
+			this.lastName = lastName;
+			this.address = address;
+			this.contact = contact;
+			this.state = state;
+			this.zip = zip;
 		}
 		public void print()
 		{
-			Console.WriteLine(FirstName + " \t  " + LastName + " \t  " + Address + " \t  " + City +" \t" + State + " \t  " + PhoneNumber + " \t " + Zip + " \t" +Email); 
+			Console.WriteLine(firstName + " \t  " + lastName + " \t  " + address + " \t  " + state + " \t  " + contact + " \t " + zip); ;
 		}
 	}
 }
