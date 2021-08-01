@@ -17,6 +17,7 @@ namespace AddressBook
 		public String Email;
         internal string firstName;
         internal object address;
+        internal string lastName;
 
         public ContactPerson()
         {
